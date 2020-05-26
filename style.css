@@ -48,6 +48,10 @@ div.header ul.nav li a {
     color: #E5E5E5;
 }
 
+li {
+    list-style-type: none;
+}
+
 /* 3D scene */
 .scene {
     overflow: hidden;
